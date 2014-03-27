@@ -19,6 +19,4 @@ Charting library used: AChartEngine
 
 FFT code inspired from example by: University of Princeton 
 
-(../project_images/fftchart.png?raw=true "Example FFT chart")
-(../project_images/vibanalyzer_promo3.jpg?raw=true "Example of usage of app")
-
+![Vibration Analyzer](project_images/cover.jpg?raw=true "Vibration Analyzer")
