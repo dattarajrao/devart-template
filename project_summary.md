@@ -15,5 +15,4 @@ It can be applied in different domains to perform vibration analysis. Lot depend
 [AChartEngine library](https://code.google.com/p/achartengine/ "AChartEngine library")
 
 ## Images & Videos
-![Vibration Analyzer](project_images/phone1.jpg?raw=true "Vibration Analyzer")
-![Vibration Analyzer](project_images/fftchart.png?raw=true "Vibration Analyzer")
+![Vibration Analyzer](project_images/fftHighRes.jpg?raw=true "Vibration Analyzer")
