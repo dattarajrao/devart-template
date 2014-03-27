@@ -2,14 +2,14 @@
 Insert the name of your project
 
 ## Authors
-- Insert main author name, surname, github account
+Dattaraj,Rao,dattarajrao
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The idea is to develop an Android app that uses SmartOhone 3-axis Accelerometer for Vibration monitoring. The motivation was the fact that modern SmartPhones have powerful sensors that are not always optimally used. The intent is to make most of available Technology.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+(https://play.google.com/store/apps/details?id=com.dattaraj.vibmonitor "Android Vibration Analyzer")
 
 [Example Link](http://www.google.com "Example Link")
 
@@ -28,6 +28,4 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+![Example Image](project_images/cover.jpg?raw=true "Vibration Analyzer")

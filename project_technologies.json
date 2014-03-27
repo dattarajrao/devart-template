@@ -1,16 +1,16 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "AChartEngine"
         ],
         "platforms": [
-            "insert platforms"
+            "Android"
         ],
         "toolkits": [
-            "insert toolkits"
+            ""
         ]
     },
     "themes": [
-        "insert themes"
+        "Engineering mobile app"
     ]
 }
