@@ -2,4 +2,4 @@ The SmartPhone provides you a device with so many powerful sensors inbuilt. Ther
 I have heard people say how diffocult it is to mount new sensors on vehicles like cars. Agreed there are so many installation, maintenance and reliability issues. For example to mount a camera in industrial space we have to design it per strict guidelines meeting standards like NEMA. This obviously shoots up the cost and we have to do serious ROI analysis to even start designing how we will mount it on the machine. Now if some of these sensing needs can be moved to the SmartPhone, that would really save us on all the additional cost. Basically the sensors and signal processing is already there. We only need an app to build the analysis logic.
 For example, the SmartPhone accelerometer has good sensitivity to detect motion and vibration, but so far it has been mainly used for changing orientation and games. Now researchers have started using this data to track movement.
 
-![Vibration Analyzer](project_images/phone1.jpg?raw=true "Vibration Analyzer")
+![Vibration Analyzer](project_images/accelerometer.jpg?raw=true "Vibration Analyzer")
