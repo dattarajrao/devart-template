@@ -1,31 +1,19 @@
 # Project Title
-Insert the name of your project
+Android app for studying machinery Vibrations
 
 ## Authors
-Dattaraj,Rao,dattarajrao
-- Insert other author(s) name, surname, github account (one per list element)
+- Dattaraj,Rao,dattarajrao - dattarajrao@yahoo.com
 
 ## Description
-The idea is to develop an Android app that uses SmartOhone 3-axis Accelerometer for Vibration monitoring. The motivation was the fact that modern SmartPhones have powerful sensors that are not always optimally used. The intent is to make most of available Technology.
+This is an Android app that leverages the Accelerometer sensor that is built into modern SmartPhones. This sensor monitors acceleration along X, Y and Z axes. The App shows a plot of acceleration with time for the selected axis. 
+It can be applied in different domains to perform vibration analysis. Lot depends on how you place the phone on the machine - as close as possible to the source of vibration.
 
 ## Link to Prototype
-(https://play.google.com/store/apps/details?id=com.dattaraj.vibmonitor "Android Vibration Analyzer")
+[Android Vibration Analyzer](https://play.google.com/store/apps/details?id=com.dattaraj.vibmonitor "Android Vibration Analyzer")
 
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
+[AChartEngine library](https://code.google.com/p/achartengine/ "AChartEngine library")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Vibration Analyzer")
+![Vibration Analyzer](project_images/phone1.jpg?raw=true "Vibration Analyzer")
+![Vibration Analyzer](project_images/fftchart.png?raw=true "Vibration Analyzer")
